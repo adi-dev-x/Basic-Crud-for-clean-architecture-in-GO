@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+ 
   <h1>CRUD-Clean Architecture in Go</h1>
   
   <p>
