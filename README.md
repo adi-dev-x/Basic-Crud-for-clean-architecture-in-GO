@@ -37,15 +37,13 @@ This project demonstrates a clean architecture implementation using Go, the Echo
 
 ### :space_invader: Tech Stack
 
-<details>
- 
-  <ul>
+<h4>
      <a href="https://go.dev/">Golang</a>
      <a href="https://echo.labstack.com/">Echo</a>
      <a href="https://gorm.io/">GORM</a>
      <a href="https://www.postgresql.org/">PostgreSQL</a>
+</h4>
 
-</details>
 
 <!-- Features -->
 ### :dart: Features
