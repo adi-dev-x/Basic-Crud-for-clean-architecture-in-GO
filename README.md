@@ -38,13 +38,13 @@ This project demonstrates a clean architecture implementation using Go, the Echo
 ### :space_invader: Tech Stack
 
 <details>
-  <summary>Server</summary>
+ 
   <ul>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://echo.labstack.com/">Echo</a></li>
-    <li><a href="https://gorm.io/">GORM</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
+     <a href="https://go.dev/">Golang</a>
+     <a href="https://echo.labstack.com/">Echo</a>
+     <a href="https://gorm.io/">GORM</a>
+     <a href="https://www.postgresql.org/">PostgreSQL</a>
+
 </details>
 
 <!-- Features -->
