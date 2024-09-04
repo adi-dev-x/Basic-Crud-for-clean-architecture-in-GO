@@ -73,12 +73,8 @@ To run this project, you will need to add the following environment variables to
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/adi-dev-x/Basic-Crud-for-clean-architecture-in-GO
-2. **Change to the project directory:**:
+2   Change to the project directory 
    ```bash
-  cd Basic-Crud-for-clean-architecture-in-GO
-3. **Install dependencies:**:
-   ```bash
-  go mod download
+   cd Basic-Crud-for-clean-architecture-in-GO
 
   
-   
