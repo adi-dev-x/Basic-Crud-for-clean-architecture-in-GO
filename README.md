@@ -20,6 +20,8 @@
     <a href="https://github.com/adi-dev-x/Basic-Crud-for-clean-architecture-in-GO/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/adi-dev-x/Basic-Crud-for-clean-architecture-in-GO/issues/">Request Feature</a>
+  <span> · </span>
+    <a href="https://medium.com/@adithyanunni258/clean-architecture-in-go-82372752e9f9">Medium</a>
   </h4>
 </div>
 
